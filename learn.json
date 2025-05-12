@@ -1,19 +1,20 @@
 {
-    "slug": "telefonika-lab",
+    "slug": "exposed-code-analysis-lab",
     "title": {
       "es": "TELEFONIKA - Análisis de código expuesto",
-      "en": "TELEFONIKA - Exposed Code Analysis"
+      "us": "TELEFONIKA - Exposed Code Analysis"
     },
     "preview": "https://github.com/4GeeksAcademy/telefonika-capture-the-flag-exercise/blob/main/preview.png?raw=true",
-    "translations": ["es", "en"],
-    "technologies": ["cybersecurity", "linux", "ssh", "web"],
+    "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-insecure-design-and-misconfiguration/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-insecure-design-and-misconfiguration/blob/solution/SOLUTION.es.md"},
+    "technologies": ["cybersecurity", "linux", "ssh", "web","owasp-a05-security-misconfiguration","owasp-a01-broken-access-control","red-team"],
     "difficulty": "intermediate",
-    "syntax": "bash",
     "duration": 2,
     "projectType": "capture-the-flag",
     "description": {
       "es": "En este laboratorio analizarás un sitio web en busca de malas prácticas, descubrirás credenciales expuestas y accederás por SSH para encontrar una flag.",
-      "en": "In this lab, you'll analyze a website for poor development practices, discover exposed credentials, and access via SSH to retrieve a flag."
+      "us": "In this lab, you'll analyze a website for poor development practices, discover exposed credentials, and access via SSH to retrieve a flag."
     }
   }
   
