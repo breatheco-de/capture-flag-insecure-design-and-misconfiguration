@@ -15,6 +15,14 @@
     "description": {
       "es": "En este laboratorio analizarás un sitio web en busca de malas prácticas, descubrirás credenciales expuestas y accederás por SSH para encontrar una flag.",
       "us": "In this lab, you'll analyze a website for poor development practices, discover exposed credentials, and access via SSH to retrieve a flag."
-    }
+    },
+    "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
   }
   
