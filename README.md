@@ -1,6 +1,6 @@
-# TELEFONIKA - Exposed Code Analysis
+# Telefonika - CTF machine for vulnerability exposed Code Analysis
 
-In this lab, you will analyze a seemingly simple web page, discover improperly leaked credentials, and access a system via SSH to retrieve a flag. In this lab, you will learn:
+In this capture the flag lab, you will analyze a seemingly simple web page, discover improperly leaked credentials, and access a system via SSH to retrieve a flag. In this lab, you will learn:
 
 - HTML source code analysis
 - Detection of poor web development practices
