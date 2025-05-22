@@ -1,8 +1,8 @@
 {
     "slug": "exposed-code-analysis-lab",
     "title": {
-      "es": "TELEFONIKA - Análisis de código expuesto",
-      "us": "TELEFONIKA - Exposed Code Analysis"
+      "es": "Telefonika - CTF maquina para la vulnerabilidad análisis de código expuesto",
+      "us": "Telefonika - CTF machine for vulnerability exposed Code Analysis"
     },
     "preview": "https://github.com/breatheco-de/4GeeksAcademy/telefonika-capture-the-flag-exercise/blob/main/preview.png?raw=true",
     "solution": {
