@@ -1,4 +1,4 @@
-# TELEFONIKA - Análisis de código expuesto
+# Telefonika - Análisis de código expuesto
 
 En este laboratorio deberás analizar una página web aparentemente simple, descubrir credenciales filtradas de forma inapropiada y acceder a un sistema a través de SSH para obtener una flag. En este laboratorio aprenderás:
 
