@@ -14,7 +14,15 @@ En este laboratorio deberás analizar una página web aparentemente simple, desc
 
 Sigue las siguientes instrucciones para comenzar:
 
-1. **Descarga la máquina virtual** desde este [enlace](https://storage.googleapis.com/cybersecurity-machines/telefonika-lab.ova).
+1. **Descarga la máquina virtual** desde este enlace:
+
+<onlyfor withbanner="true" permission="get_private_link">
+   
+```url
+   https://storage.googleapis.com/cybersecurity-machines/telefonika-lab.ova
+```
+</onlyfor>
+
 2. **Importa la máquina** en tu gestor de virtualización preferido (VirtualBox, VMware, etc.).
 3. Una vez iniciada la máquina, ¡ya puedes comenzar con el laboratorio!
 
