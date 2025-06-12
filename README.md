@@ -14,8 +14,17 @@ In this capture the flag lab, you will analyze a seemingly simple web page, disc
 
 Follow these instructions to get started:
 
-1. **Download the virtual machine** from this [link](https://storage.googleapis.com/cybersecurity-machines/telefonika-lab.ova).
-2. **Import the machine** into your preferred virtualization manager (VirtualBox, VMware, etc.).
+1. **Download the virtual machine** from this link:
+
+<onlyfor withbanner="true" permission="get_private_link">
+   
+```url
+  https://storage.googleapis.com/cybersecurity-machines/telefonika-lab.ova
+```
+
+</onlyfor>
+
+2. **Import the machine** into your preferred virtualization software (VirtualBox, VMware, etc.).
 3. Once the machine is running, you can start the lab!
 
 </how-to-start>
