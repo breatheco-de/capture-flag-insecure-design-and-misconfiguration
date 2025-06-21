@@ -28,7 +28,7 @@ You are facing the website of an internet and telephony service company called *
 
 1. **Discover the IP address of the TELEFONIKA machine.**
    - The machine is connected to the same network as you, but its IP has not been provided.
-   - Use tools like `nmap`, `netdiscover`, or `arp-scan` to scan the network.
+   - Use tools like `nmap` to scan the network.
 
 2. **Access the website hosted on the server.**
    - Open your browser and visit the assigned IP.
