@@ -28,7 +28,7 @@ Estás frente al sitio web de una empresa de servicios de internet y telefonía 
 
 1. **Descubre la dirección IP de la máquina TELEFONIKA.**
    - La máquina está conectada a la misma red que tú, pero su IP no ha sido proporcionada.
-   - Utiliza herramientas como `nmap`, `netdiscover` o `arp-scan` para escanear la red.
+   - Utiliza herramientas como `nmap` para escanear la red.
 
 2. **Accede al sitio web alojado en el servidor.**
    - Abre tu navegador y visita la IP asignada.
