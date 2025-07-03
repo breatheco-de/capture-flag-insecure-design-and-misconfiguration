@@ -1,5 +1,5 @@
 {
-    "slug": "exposed-code-analysis-ctf-lab",
+    "slug": "capture-flag-insecure-design-and-misconfiguration",
     "title": {
       "es": "Telefonika - CTF maquina para la vulnerabilidad análisis de código expuesto",
       "us": "Telefonika - CTF machine for vulnerability exposed Code Analysis"
@@ -11,7 +11,7 @@
     "technologies": ["cybersecurity", "linux", "ssh", "web","owasp-a05-security-misconfiguration","owasp-a01-broken-access-control","red-team"],
     "difficulty": "intermediate",
     "duration": 2,
-    "projectType": "capture-the-flag",
+    "projectType": "project",
     "description": {
       "es": "En este laboratorio analizarás un sitio web en busca de malas prácticas, descubrirás credenciales expuestas y accederás por SSH para encontrar una flag.",
       "us": "In this lab, you'll analyze a website for poor development practices, discover exposed credentials, and access via SSH to retrieve a flag."
